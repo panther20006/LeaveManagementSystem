@@ -1,0 +1,9 @@
+ID,Type,Start,End,Days,Status
+101,Sick,2026-08-03,2026-08-04,2,Approved
+101,Casual,2026-09-07,2026-09-09,3,Approved
+102,Earned,2026-08-10,2026-08-14,5,Approved
+102,Sick,2026-09-01,2026-09-01,1,Approved
+103,Emergency,2026-08-20,2026-08-21,2,Approved
+103,Casual,2026-09-14,2026-09-16,3,Pending
+104,Earned,2026-09-21,2026-09-24,4,Approved
+104,Sick,2026-08-27,2026-08-27,1,Rejected
